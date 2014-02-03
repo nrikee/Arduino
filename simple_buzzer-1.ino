@@ -1,3 +1,5 @@
+/** Más información en: http://nrikee.com/wordpress/hardware/arduino/buzzer-de-3-patas */
+
 const int buzzerPin =  3;	// Número del pin donde está el buzzer 		
 long tono1 = 150; 		    // Tono 1
 long tono2 = 250; 		    // Tono 2
