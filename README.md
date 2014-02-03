@@ -1,2 +1,3 @@
-Arduino-ejemplos
+Arduino: Ejemplos de código y configuraciones
 ================
+
